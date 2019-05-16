@@ -23,4 +23,4 @@ steps:
   condition: succeededOrFailed()
   inputs:
     testRunner: VSTest
-    testResultsFiles: 'Program.Tests/*.trx'
+    testResultsFiles: 'Program.Tests/TestResults/*.trx'
