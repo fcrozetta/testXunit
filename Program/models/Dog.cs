@@ -1,6 +1,6 @@
 namespace Program.Models
 {
-    class Dog : Animal
+    public class Dog : Animal
     {
         public Dog() : base()
         {

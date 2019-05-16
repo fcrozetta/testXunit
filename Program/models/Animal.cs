@@ -1,6 +1,6 @@
 namespace Program.Models
 {
-    abstract class Animal
+    public abstract class Animal
     {
         public string Race { get; set; }
         public string Sound { get; set; }
