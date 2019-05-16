@@ -1,0 +1,7 @@
+.vscode
+Program/.vscode
+Program/bin
+Program/obj
+Program.Tests/.vscode
+Program.Tests/bin
+Program.Tests/obj
