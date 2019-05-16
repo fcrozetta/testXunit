@@ -1,0 +1,17 @@
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.Tests.deps.json
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.Tests.runtimeconfig.json
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.Tests.runtimeconfig.dev.json
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.Tests.dll
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.Tests.pdb
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.csprojAssemblyReference.cache
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.csproj.CoreCompileInputs.cache
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.AssemblyInfoInputs.cache
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.AssemblyInfo.cs
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.dll
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.pdb
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.dll
+/home/fcrozetta/projetos/testXunit/Program.Tests/bin/Debug/netcoreapp2.2/Program.pdb
+/home/fcrozetta/projetos/testXunit/Program.Tests/obj/Debug/netcoreapp2.2/Program.Tests.csproj.CopyComplete

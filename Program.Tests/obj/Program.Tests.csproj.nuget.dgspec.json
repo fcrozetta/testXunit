@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fcrozetta/projetos/testXunit/Program.Tests/Program.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/fcrozetta/projetos/testXunit/Program.Tests/Program.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fcrozetta/projetos/testXunit/Program.Tests/Program.Tests.csproj",
+        "projectName": "Program.Tests",
+        "projectPath": "/home/fcrozetta/projetos/testXunit/Program.Tests/Program.Tests.csproj",
+        "packagesPath": "/home/fcrozetta/.nuget/packages/",
+        "outputPath": "/home/fcrozetta/projetos/testXunit/Program.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/fcrozetta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/fcrozetta/projetos/testXunit/Program/Program.csproj": {
+                "projectPath": "/home/fcrozetta/projetos/testXunit/Program/Program.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/fcrozetta/projetos/testXunit/Program/Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fcrozetta/projetos/testXunit/Program/Program.csproj",
+        "projectName": "Program",
+        "projectPath": "/home/fcrozetta/projetos/testXunit/Program/Program.csproj",
+        "packagesPath": "/home/fcrozetta/.nuget/packages/",
+        "outputPath": "/home/fcrozetta/projetos/testXunit/Program/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/fcrozetta/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

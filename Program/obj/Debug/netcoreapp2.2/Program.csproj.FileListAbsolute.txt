@@ -1,0 +1,11 @@
+/home/fcrozetta/projetos/testXunit/Program/bin/Debug/netcoreapp2.2/Program.deps.json
+/home/fcrozetta/projetos/testXunit/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.json
+/home/fcrozetta/projetos/testXunit/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.dev.json
+/home/fcrozetta/projetos/testXunit/Program/bin/Debug/netcoreapp2.2/Program.dll
+/home/fcrozetta/projetos/testXunit/Program/bin/Debug/netcoreapp2.2/Program.pdb
+/home/fcrozetta/projetos/testXunit/Program/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/home/fcrozetta/projetos/testXunit/Program/obj/Debug/netcoreapp2.2/Program.csproj.CoreCompileInputs.cache
+/home/fcrozetta/projetos/testXunit/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/home/fcrozetta/projetos/testXunit/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
+/home/fcrozetta/projetos/testXunit/Program/obj/Debug/netcoreapp2.2/Program.dll
+/home/fcrozetta/projetos/testXunit/Program/obj/Debug/netcoreapp2.2/Program.pdb
