@@ -17,7 +17,7 @@ steps:
     version: '2.2.103'
 - script: |
     dotnet restore
-    dotnet test
+    dotnet test --logger trx
     dotnet build
 - task: PublishTestResults@2
   condition: succeededOrFailed()
