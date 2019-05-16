@@ -5,3 +5,4 @@ Program/obj
 Program.Tests/.vscode
 Program.Tests/bin
 Program.Tests/obj
+Program.Tests/TestResults
